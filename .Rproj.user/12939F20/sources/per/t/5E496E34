@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566846673673.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "197674692",
+    "id" : "5E496E34",
+    "lastKnownWriteTime" : 1566913350,
+    "last_content_update" : 1566913350852,
+    "path" : "~/School/Math Camp/R/GIC-workshop/day1_code.R",
+    "project_path" : "day1_code.R",
+    "properties" : {
+        "cursorPosition" : "144,0",
+        "scrollLine" : "135",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
