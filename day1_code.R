@@ -144,5 +144,3 @@ colnames(random_tibble, )
 colnames(classdata) <- paste("var", 1:5)
 classdata
 library(tidyverse)
-
-meng = "hello world"
